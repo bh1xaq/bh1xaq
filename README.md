@@ -6,6 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 📻 I'm a Ham and I own an amateur shortwave radio station with the call sign BH1XAQ
 * 🛜 I am the maintainer of [AS209574](https://net.hex.ac.cn)
 * 🖥️ Welcome to [my blog](https://www.txisfine.cn)
+* 🍊 Let 's [CNB.COOL](https://cnb.cool/hex)
 * 📫 You can contact me at [tocker@16iot.cn](mailto:tocker@16iot.cn)
 
 ### Skills
